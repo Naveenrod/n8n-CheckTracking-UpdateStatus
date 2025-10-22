@@ -5,12 +5,19 @@ This project implements a comprehensive automation workflow that monitors Zoho C
 ✨ Key Features
 
 Automated Opportunity Monitoring: Triggers automatically on new or updated Zoho CRM opportunities
+
 Order Processing Pipeline: Seamlessly handles order creation, validation, and fulfillment
+
 Multi-Carrier Tracking Integration: Supports tracking across multiple shipping carriers and logistics providers
+
 Real-time Status Updates: Automatically syncs order status back to Zoho CRM
+
 Customer Notifications: Sends timely email/SMS updates to customers about order progress
+
 Error Handling & Retry Logic: Robust error handling mechanisms ensure reliability
+
 Conditional Routing: Smart workflow branching based on order type, status, and business rules
+
 Data Transformation: Automatic data mapping and formatting between different systems
 
 🔄 Workflow Process
